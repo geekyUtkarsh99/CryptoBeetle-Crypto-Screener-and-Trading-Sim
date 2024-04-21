@@ -23,11 +23,13 @@ Welcome to Crypto Beetle, a leading provider of advanced tools and insights for 
 ### Screenshots
 
 [//]: # (Add screenshots of your app here)
-<a href="url"><img src="https://github.com/geekyUtkarsh99/CryptoBeetle-Crypto-Screener-and-Trading-Sim/blob/main/Screenshot_20230523-215556.png" align="left" height="480"  ></a>
-<a href="url"><img src="https://github.com/geekyUtkarsh99/CryptoBeetle-Crypto-Screener-and-Trading-Sim/blob/main/Screenshot_20230523-215704.png" align="left" height="480"  ></a>
-<a href="url"><img src="https://github.com/geekyUtkarsh99/CryptoBeetle-Crypto-Screener-and-Trading-Sim/blob/main/Screenshot_20230523-215912.png" align="left" height="480"  ></a>
+<a href="url"><img src="https://github.com/geekyUtkarsh99/CryptoBeetle-Crypto-Screener-and-Trading-Sim/blob/main/Screenshot_20230523-215556.png" align="center" height="480"  ></a>
+<a href="url"><img src="https://github.com/geekyUtkarsh99/CryptoBeetle-Crypto-Screener-and-Trading-Sim/blob/main/Screenshot_20230523-215704.png" align="center" height="480"  ></a>
+<a href="url"><img src="https://github.com/geekyUtkarsh99/CryptoBeetle-Crypto-Screener-and-Trading-Sim/blob/main/Screenshot_20230523-215912.png" align="center" height="480"  ></a>
 
-<br>
+
+
+
 
 ## Links
 
